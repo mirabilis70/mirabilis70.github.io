@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Сибирская фабрика деревянной игрушки \"Мирабилис\"",
-    "currentPage": "index.html",
+    "currentPage": "edugame.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1605,7 +1605,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/pg6pwzvln4o-960x811.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -2015,7 +2015,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/2nvhlbyq2so-604x604.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
